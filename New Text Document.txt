@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>its jassi</title>
+</head>
+<h1> <center> <b> <U> WEBSITE LAYOUT BY HTML   </U></b></h1></center>
+<BR></BR>
+<br>
+<h1 style="background-color:rgb(255, 0, 0);"> <Center> IRAN MAN </h1></Center>
+<img src="iran jassi.jpg" width="500px" height="500px" alt="iran man image">
+<img src="iran mann.jpg" width="500px" height="500x" alt="iran man image">
+<img src="scene-Iron-Man.jpg" width="495px" height="495px" alt="iran man image">
+<br>
+<br>
+<h1><Center>  INFORMATION</Center></h1>
+<P><b> hello every one my name is jaswant singh and bus english kam aati h par kuch to likhna h na tjhe kuch apni tareef karne ki khoish m likh rha hu annd i no its not be good at all time
+    hello every one my name is jaswant singh and bus english kam aati h par kuch to likhna h na tjhe kuch apni tareef karne ki khoish m likh rha hu annd i no its not be good at all time
+     hello every one my name is jaswant singh and bus english kam aati h par kuch to likhna h na tjhe kuch apni tareef karne ki khoish m likh rha hu annd i no its not be good at all time
+    hello every one my name is jaswant singh and bus english kam aati h par kuch to likhna h na tjhe kuch apni tareef karne ki khoish m likh 
+    </P><b/>
+     <hr>
+    <h1 style="background-color: blue;"><Center>CAPTAIN AMERCICA</h1></Center>
+    <img src="captain am.jpg" width="500px" height="500px" alt="iran man image">
+<img src="captain ma.jpg" width="500px" height="500x" alt="iran man image">
+<img src="captain.jpg" width="495px" height="495px" alt="iran man image">
+<hr>
+<h1><Center>  INFORMATION</Center></h1>
+<P><b> hello every one my name is jaswant singh and bus english kam aati h par kuch to likhna h na tjhe kuch apni tareef karne ki khoish m likh rha hu annd i no its not be good at all time
+    hello every one my name is jaswant singh and bus english kam aati h par kuch to likhna h na tjhe kuch apni tareef karne ki khoish m likh rha hu annd i no its not be good at all time
+     hello every one my name is jaswant singh and bus english kam aati h par kuch to likhna h na tjhe kuch apni tareef karne ki khoish m likh rha hu annd i no its not be good at all time
+    hello every one my name is jaswant singh and bus english kam aati h par kuch to likhna h na tjhe kuch apni tareef karne ki khoish m likh 
+    </P><b/>
+    <h1 style="background-color:rgb(0, 111, 48);"> <Center> HULK SMASH </h1></Center>
+    <img src="hulk1.jpg" width="500px" height="500px" alt="iran man image">
+<img src="hulk2.jpg" width="500px" height="500x" alt="iran man image">
+<img src="hulk3.jpg" width="495px" height="495px" alt="iran man image">
+<h1><Center>  INFORMATION</Center></h1>
+<P><b> hello every one my name is jaswant singh and bus english kam aati h par kuch to likhna h na tjhe kuch apni tareef karne ki khoish m likh rha hu annd i no its not be good at all time
+    hello every one my name is jaswant singh and bus english kam aati h par kuch to likhna h na tjhe kuch apni tareef karne ki khoish m likh rha hu annd i no its not be good at all time
+     hello every one my name is jaswant singh and bus english kam aati h par kuch to likhna h na tjhe kuch apni tareef karne ki khoish m likh rha hu annd i no its not be good at all time
+    hello every one my name is jaswant singh and bus english kam aati h par kuch to likhna h na tjhe kuch apni tareef karne ki khoish m likh 
+    </P><b/>
+    <h1 style="background-color: rgb(38, 179, 245);"><Center>THOR THUNDER</h1></Center>
+    <img src="THOR1.jpg" width="500px" height="500px" alt="iran man image">
+    <img src="THOR2.jpg" width="500px" height="500x" alt="iran man image">
+    <img src="THOR3.jpg" width="495px" height="495px" alt="iran man image">
+    <h1><Center>  INFORMATION</Center></h1>
+    <P><b> hello every one my name is jaswant singh and bus english kam aati h par kuch to likhna h na tjhe kuch apni tareef karne ki khoish m likh rha hu annd i no its not be good at all time
+        hello every one my name is jaswant singh and bus english kam aati h par kuch to likhna h na tjhe kuch apni tareef karne ki khoish m likh rha hu annd i no its not be good at all time
+         hello every one my name is jaswant singh and bus english kam aati h par kuch to likhna h na tjhe kuch apni tareef karne ki khoish m likh rha hu annd i no its not be good at all time
+        hello every one my name is jaswant singh and bus english kam aati h par kuch to likhna h na tjhe kuch apni tareef karne ki khoish m likh 
+        </P><b/>
+
+
+
+
+
+    
+
+<body>
+    
+</body>
+</html>
